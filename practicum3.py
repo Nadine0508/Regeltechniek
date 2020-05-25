@@ -18,7 +18,7 @@ H      = control.tf(teller, noemer)
 
 print (H)
 Kp = 100
-Kd = 10.0
+Kd = 35.5
 
 teller_s = np.array([1.0,0.0])
 noemer_s = np.array([1])
